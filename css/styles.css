@@ -1,0 +1,94 @@
+.category-description a{
+    color: var(--color-primary) !important;
+}
+
+.category-description a:hover{
+    text-decoration: none;
+    color: var(--color-primary) !important;
+}
+
+.fotoLic{
+    -webkit-transform: rotate(90deg); 
+    -moz-transform: rotate(90deg);
+    margin-left: 140px;
+    margin-top: 15px;
+}
+
+.nombre{
+    -webkit-transform: rotate(90deg); 
+    -moz-transform: rotate(90deg);
+    margin-top: 80px;
+    margin-left: 150px;
+}
+
+.info{
+    -webkit-transform: rotate(90deg); 
+    -moz-transform: rotate(90deg);
+    line-height: 8px;
+    margin-top: 25px;
+    margin-left: 15px; 
+}
+
+.info-2{
+    -webkit-transform: rotate(90deg); 
+    -moz-transform: rotate(90deg);
+    margin-top: 90px;
+    margin-left: 190px;
+    line-height: 15px;
+}
+
+.info-3{
+    -webkit-transform: rotate(90deg); 
+    -moz-transform: rotate(90deg);
+    line-height: 12px;
+    margin-top: -100px;
+    margin-right: 95px;
+    font-weight: bold;
+}
+
+.letra-lic{
+    font-size: 30px;
+    font-weight: bold;
+    color: green;
+}
+
+.info-back{
+    -webkit-transform: rotate(90deg); 
+    -moz-transform: rotate(90deg);
+    line-height: 8px;
+    margin-left: 260PX;
+    margin-top: 10px;
+}
+
+.info-back-1{
+    -webkit-transform: rotate(90deg); 
+    -moz-transform: rotate(90deg);
+     line-height: 8PX;
+     margin-left: 260PX;
+     margin-top: 50px;
+}
+
+.info-back-2{
+    -webkit-transform: rotate(90deg); 
+    -moz-transform: rotate(90deg);
+    line-height: 8PX;
+     margin-left: 260PX;
+     margin-top: 50px;
+}
+
+.info-back-3{
+    -webkit-transform: rotate(90deg); 
+    -moz-transform: rotate(90deg);
+    margin-top: -250px;
+    line-height: 8px;
+}
+
+.info-back-4{
+    -webkit-transform: rotate(90deg); 
+    -moz-transform: rotate(90deg);
+    margin-top: 150px;
+}
+
+.firmaSecreta{
+    width: 100px;
+}
